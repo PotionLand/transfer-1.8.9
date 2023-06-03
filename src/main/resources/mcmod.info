@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "Transfer",
+    "description": "transfer packets go brr",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "url": "https://google.com",
+    "updateUrl": "",
+    "authorList": ["vape"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
